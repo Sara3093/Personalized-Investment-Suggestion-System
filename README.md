@@ -21,3 +21,7 @@ Python 3.12.0
 code 1.88.1
 
 Jupyter notebook/Google colab/VSCode
+
+The models used are-
+1. Linear Regression
+2. Random Forest Model
